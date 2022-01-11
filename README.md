@@ -14,7 +14,7 @@ Don't bother trying to find ways to break this beauty of an app, it will do that
 
  ## Parameters
  - **BALL** _(String, This is the moving object on your court)_ default: `O`
- - **BORDER** _(Char, representing the court border)_ default: `#`
+ - **BORDER** _(Char, Representing the court border)_ default: `#`
  - **REFRESH_RATE** _(Number, Redraw the whole thing every {x} ms)_ default: `250`
  - **POS_X** _(Number, Starting position X)_ default: `0`
  - **POS_Y** _(Number, Starting position Y)_ default: `0`
@@ -22,8 +22,8 @@ Don't bother trying to find ways to break this beauty of an app, it will do that
  - **VEL_Y** _(Number, Starting velocity Y)_ default: `1`
  - **WIDTH** _(Number, Court width)_ default: `45`
  - **HEIGHT** _(Number, Court height)_ default: `15`
- - **TRACE** _(String, Use `'true'` to draw a line behind your ball)_ default: `false`
- - **TRACE_SEQUENCE** _(String, Sequence of chars used to draw the trace line)_ default: `X`
+ - **TRACE** _(String, Use `true` to draw a line behind your ball)_ default: `false`
+ - **TRACE_SEQUENCE** _(String, Sequence of chars used to draw the trace line, f.e. `X_0_X`)_ default: `X`
 
  ## Future "plans"
  - Add color
