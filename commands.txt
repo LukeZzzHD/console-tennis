@@ -1,0 +1,15 @@
+npm start refresh_rate=150 pos_x=0 pos_y=2 vel_x=1 vel_y=1 width=5 height=5
+
+npm start refresh_rate=150 pos_x=0 pos_y=2 vel_x=1 vel_y=1 width=9 height=5
+
+npm start refresh_rate=150 pos_x=0 pos_y=2 vel_x=1 vel_y=1 width=5 height=5 trace=true
+
+npm start refresh_rate=150 pos_x=0 pos_y=2 vel_x=1 vel_y=1 width=9 height=5 trace=true
+
+npm start refresh_rate=100 pos_x=0 pos_y=24 vel_x=1 vel_y=1 width=50 height=50
+
+npm start refresh_rate=150 pos_x=0 pos_y=15 vel_x=4 vel_y=1 width=120 height=30
+
+npm start ball=+ border=0 trace=true trace_sequence=1232
+
+npm start refresh_rate=80 ball='(DVD)' pos_x=2    // DVD animation lol
